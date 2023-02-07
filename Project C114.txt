@@ -1,0 +1,13 @@
+Output for ' Test 1'
+PS C:\Users\admin\Desktop\Python\Class 114> & C:/Users/admin/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/admin/Desktop/Python/Class 114/test1.py"
+b is greater than a
+PS C:\Users\admin\Desktop\Python\Class 114> 
+
+Output for ' Test 2'
+PS C:\Users\admin\Desktop\Python\Class 114> & C:/Users/admin/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/admin/Desktop/Python/Class 114/test2.py"
+EmilRefsnes
+TobiasRefsnes
+LinusRefsnes
+
+Github Link :
+https://github.com/bhavya209/Project-C114.git
